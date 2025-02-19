@@ -1,0 +1,5 @@
+este es mi ejemplo de como agregar o actualizar datos desde github y sincronizar
+para realizar este utilizamos el comando:
+git pull origin master
+o si trabajos en la rama main
+git pull origin main
